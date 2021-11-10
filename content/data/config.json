@@ -91,5 +91,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://kind-aspen-b24c5.netlify.app"
+    "domain": "https://kind-aspen-b24c5.netlify.app",
+    "favicon": "/images/2-days.svg"
 }
